@@ -12,7 +12,7 @@ public class Product<T> implements IProduct {
 
     IProduct product;
 
-    public Product( String brand, double unitPrice, double discount, int stock, String description, int memory, double size, int ram) {
+    public Product( String brand, String description, double unitPrice, double discount, int stock,  int memory, double size, int ram) {
         this.id = nextId;
         nextId++;
         this.brand = brand;
