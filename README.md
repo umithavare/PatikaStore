@@ -60,4 +60,5 @@ The Patika team has decided to open a virtual store that sells electronic device
 ![img_3.png](img_3.png)
 ### After Adding
 ![img_4.png](img_4.png)
-### After Deleting ![img_5.png](img_5.png)
+### After Deleting 
+![img_5.png](img_5.png)
