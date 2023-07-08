@@ -28,7 +28,18 @@ public class Main {
         notebooks.add(new Notebook("Apple","Macbook Pro M2",70000,
                 10,25,2048,14,32));
         notebooks.add(new Notebook("Asus","Rog Strix",40000,
-                15,30,512,15.6,24);
+                15,30,512,15.6,24));
         return notebooks;
     }
+    private static void listBrands(List<String> brandName){
+         List<Brand> brands = new ArrayList<>();
+         for (int i = 0 ; i < brandName.toArray().length ; i++){
+             brands.add(new Brand(brandName.get(i)));
+         }
+         Collections.sort(brands);
+         for (Brand b : brands){
+             System.out.println("-" + b.getName().toUpperCase());
+         }
+    }
+
 }
