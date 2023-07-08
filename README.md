@@ -63,9 +63,14 @@ Patika ekibi elektronik eşyaların satıldığı bir sanal bir mağaza açmaya 
 - Kullanıcı ürünlerin benzersiz numaralarına ve markalarına göre filtreleyip listeleyebilmeli.
 
 ## Photos 
+### Notebook Listing
 ![img.png](img.png)
+### Brand Sorting
 ![img_1.png](img_1.png)
+### Phone Listing
 ![img_2.png](img_2.png)
+### Product Adding
 ![img_3.png](img_3.png)
+### After Adding
 ![img_4.png](img_4.png)
-after deleting ![img_5.png](img_5.png)
+### After Deleting ![img_5.png](img_5.png)
